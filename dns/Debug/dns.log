@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  dns.cpp
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(93,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(103,9): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(173,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(186,24): warning C4805: “==”: 在操作中将类型“boolean”与类型“bool”混合不安全
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(188,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(201,6): warning C4805: “==”: 在操作中将类型“boolean”与类型“bool”混合不安全
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(203,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(210,5): warning C4805: “==”: 在操作中将类型“boolean”与类型“bool”混合不安全
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(210,40): warning C4805: “==”: 在操作中将类型“boolean”与类型“bool”混合不安全
+C:\Users\luoti\Desktop\工程文件  C\dns\dns\dns.cpp(215,10): warning C4805: “==”: 在操作中将类型“boolean”与类型“bool”混合不安全
+  dns.vcxproj -> C:\Users\luoti\Desktop\工程文件  C\dns\Debug\dns.exe
